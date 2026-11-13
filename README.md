@@ -1,2 +1,3 @@
 # Penetration-Testing-Report
-Practical Penetration Testing Report using Kali Linux – Footprinting and Reconnaissance.
+### Footprinting & Network Scanning Phases
+**W2-PM-FINAL  |  CYBERSECURITY  |  NETWORKWALKS**
